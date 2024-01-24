@@ -1,0 +1,7 @@
+.bnw{
+	filter: grayscale(100%);
+transition: 0,30s;}
+
+.bnw:hover{
+	filter: grayscale(0%);
+}
